@@ -1,6 +1,6 @@
 # Download pokemon images from the web
 
-source("0_functions.R")
+source("functions.R")
 
 # Settings ----------------------------------------------------------------
 
